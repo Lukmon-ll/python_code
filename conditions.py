@@ -1,4 +1,4 @@
-#
+# Enter the key word to win prize
 x = "Lukmon"
 y = input("Enter the lucky word and win great prizes ")
 y = y.title()
